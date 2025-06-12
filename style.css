@@ -5,15 +5,16 @@ h1
 
 article
 {
+     background-image: url(https://upload.wikimedia.org/wikipedia/commons/1/1a/Donkey_in_Clovelly%2C_North_Devon%2C_England.jpg)
+    width: 500;
+    height: 500;
     background-color: teal;
     font-family: Times New Roman;
 }
 
 .blur
 {
-    background-image: url(https://upload.wikimedia.org/wikipedia/commons/1/1a/Donkey_in_Clovelly%2C_North_Devon%2C_England.jpg)
-    width: 500;
-    height: 500;
+
     backdrop-filter: blur(5px);
     background-color: white;
 }
